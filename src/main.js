@@ -9,4 +9,6 @@ import {
 import { Session } from "@inrupt/solid-client-authn-browser";
 import { VCARD } from "@inrupt/vocab-common-rdf";
 
+import express from 'express';
 
+const app = express();
