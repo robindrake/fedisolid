@@ -1,0 +1,19 @@
+{
+  	"name": "fedisolid",
+  	"version": "0.0.1",
+  	"private": "true",
+  	"type": "module",
+  	"description": "Wanting to create a Social Networking website using both ActivityPub and the SOLID Project",
+  	"main": "index.js",
+  	"repository": {
+  	  	"type": "git",
+  	  	"url": "https://tildegit.org/robyndrake/fedisolid"
+  	},
+  	"author": "Robyn Drake",
+  	"license": "MIT",
+  	"dependencies": {
+  	  	"@inrupt/solid-client": "^1.26.0",
+  	  	"@inrupt/solid-client-authn-browser": "^1.14.0",
+  	  	"@inrupt/vocab-common-rdf": "^1.0.5"
+  	}
+}
