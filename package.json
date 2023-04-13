@@ -4,7 +4,7 @@
   	"private": "true",
   	"type": "module",
   	"description": "Wanting to create a Social Networking website using both ActivityPub and the SOLID Project",
-  	"main": "index.js",
+  	"main": "main.js",
   	"repository": {
   	  	"type": "git",
   	  	"url": "https://tildegit.org/robyndrake/fedisolid"
