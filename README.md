@@ -1,3 +1,3 @@
 # fedisolid
 
-Wanting to create a Social Networking website using ActivityPub and the SOLID Project
+Wanting to create a blogging platform that uses ActivityPub to announce when a post is made
